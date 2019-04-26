@@ -7,11 +7,11 @@ of a Data Center residing in ENEA Portici Research Center.
 - DC impact on the environment is shown through indirect carbon emissions evaluation per month
 - All results are visualized for further use in the manuscript
 
-## Acknowlegement
-The research work has been supported and funded by the PERCCOM Erasmus Mundus Program of the European Union (Klimova, A. et al., 2016). The author is thankful to ENEA Portici and Casaccia Energy Technologies Department, ICT Division teams for the data collection and fruitful collaboration.
-
 ## Alternative viewer
-If the \*.ipynb files are not diplayed in Git, please, use https://nbviewer.jupyter.org/ and copy the link of a file location on GitHub 
+If the \*.ipynb files are not diplayed in Git, please, use https://nbviewer.jupyter.org/ and use the link of a GitHub file location.
+
+## Acknowlegement
+The research work has been supported and funded by the PERCCOM Erasmus Mundus Program of the European Union (Klimova, A. et al., 2016). The author is thankful to ENEA Portici and Casaccia Energy Technologies Department, ICT Division teams for the data collection and fruitful collaboration. 
 
 ## References
 Klimova, A. et al. (2016) ‘An international Master’s program in green ICT as a contribution to sustainable development’, Journal of Cleaner Production, 135, pp. 223–239. doi: 10.1016/j.jclepro.2016.06.032.
