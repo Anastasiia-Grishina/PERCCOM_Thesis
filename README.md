@@ -1,6 +1,6 @@
 # PERCCOM Thesis
 
-This repository contains data analysis and visualization for the thesis project of the Erasmus Mundus Joint Master's Programme in Pervasive Computing & Communications for Sustainable Development (EMJMD PERCCOM) comprising 4 semesters of studies in 
+This repository contains data analysis and visualization for the thesis project of the Erasmus Mundus Joint Master's Programme in Pervasive Computing & Communications for Sustainable Development (EMJMD PERCCOM), comprising 4 semesters of studies in 
 [France](https://formations.univ-lorraine.fr/en/3378-erasmus-mundus-master-in-pervasive-computing-communications-for-sustainable-development.html), 
 [Finland](https://scispace.com/pdf/perccom-a-master-program-in-pervasive-computing-and-1nvkz2m6zx.pdf), 
 [Sweden](https://www.ltu.se/en/education/degree/exa2240-degree-of-master-of-science-120-credits---major-computer-science-and-engineering) with the thesis semester in Italy, 2017-2019.
@@ -50,12 +50,12 @@ Library and technology stack:
 - SciPy
 
 ### Alternative viewer
-If the `\*.ipynb` files are not displayed in Git, kindly use (NBViewer)[https://nbviewer.jupyter.org/] and use the link of a GitHub file location.
+If the `\*.ipynb` files are not displayed in Git, kindly use [NBViewer](https://nbviewer.jupyter.org/) and use the link of a GitHub file location.
 
 ## Acknowlegement
 The research work has been supported and funded by the PERCCOM Erasmus Mundus Program of the European Union (Klimova, A. et al., 2016). The author is thankful to ENEA Portici and Casaccia Energy Technologies Department, ICT Division teams for the data collection and fruitful collaboration. 
 
 ## About PERCCOM Master's Programme
-Klimova, A. et al. (2016) ‘An international Master’s program in green ICT as a contribution to sustainable development’, Journal of Cleaner Production, 135, pp. 223–239. doi: 10.1016/j.jclepro.2016.06.032.
+Klimova, A. et al. (2016). An international Master’s program in green ICT as a contribution to sustainable development, Journal of Cleaner Production, 135, pp. 223–239. doi: [10.1016/j.jclepro.2016.06.032](https://www.sciencedirect.com/science/article/abs/pii/S0959652616307077).
 
-Note: similar Erasmus Mundus programmes and international researcher jobs can be found at the (Euraxess website)[https://euraxess.ec.europa.eu/) 
+Note: similar Erasmus Mundus programmes and international researcher jobs can be found at the Euraxess website: <https://euraxess.ec.europa.eu/>. 
